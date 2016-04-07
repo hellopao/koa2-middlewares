@@ -15,8 +15,17 @@ npm install koa2-middlewares
 list koa2 middlewares
 
 ```bash
-koams list
+koams list 
 ```
+
+#### options ignore
+
+filter definited koa middlewares
+
+```bash
+koams list -i
+```
+
 ### open
 
 open koa2 middleware's github

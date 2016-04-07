@@ -1,6 +1,6 @@
 {
   "name": "koa2-middlewares",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a cmd tool to search koa2 middlewares ",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -31,6 +31,6 @@
     "cmd tool"
   ],
   "homepage": "https://github.com/hellopao/koa2-middlewares",
-  "_id": "koa2-middlewares@0.0.1",
+  "_id": "koa2-middlewares@0.0.2",
   "_from": "koa2-middlewares@"
 }

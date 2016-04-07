@@ -7,7 +7,7 @@
 			"request": "launch",
 			"program": "${workspaceRoot}/bin/koa.ts",
 			"stopOnEntry": false,
-			"args": ["list","koa-views"],
+			"args": ["list"],
 			"cwd": "${workspaceRoot}",
 			"preLaunchTask": null,
 			"runtimeExecutable": null,
